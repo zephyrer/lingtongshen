@@ -7,7 +7,4 @@ https://code.google.com/p/lingtongshen-droidsupervisor/
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This is An android APP to monitor android device secretly.
