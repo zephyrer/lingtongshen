@@ -7,4 +7,4 @@ https://code.google.com/p/lingtongshen-qiyemanager/
 
 = Details =
 
-Add your content here.  Format your content with:
+An easy-to-use system for small business operation management.
